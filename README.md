@@ -12,7 +12,7 @@
 <p>Hello Word!!!! 
     treinando uma pagina 
     <h1>olá,bem vindo!!!</h1>
-    <h2>Esse é meu primeiro portifolio de site</h2>
+    <h2>Esse é meu primeiro  site</h2>
 
     
 </p>
